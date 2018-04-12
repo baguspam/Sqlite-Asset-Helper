@@ -1,3 +1,9 @@
+Clone Git dari https://github.com/jgilfelt/android-sqlite-asset-helper
+
+Library yang digunakan untuk baca sqlite dari folder asset android studio,
+- Buat database sqlitenya dengan aplikasi SQLite Studio https://sqlitestudio.pl/ atau dengan aplikasi SQLite Management Studio https://sourceforge.net/projects/sqlitemanstudio/
+- sqlitenya dicopy ke folder asset,example nanti diupload :p
+
 ### THIS PROJECT IS NO LONGER MAINTAINED
 
 Android SQLiteAssetHelper
